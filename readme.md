@@ -1,5 +1,3 @@
-**Note: My personal site no longer runs GetSimple so I've stopped updating this theme. Remember you can always contribute yourself if you want to!**
-
 # Bootstrap Theme
 Bootstrap Theme is a simple [GetSimple CMS](http://get-simple.info/) theme based on [Bootstrap](http://getbootstrap.com/) (currently version 3).
 
